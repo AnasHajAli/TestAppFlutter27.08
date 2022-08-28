@@ -145,7 +145,7 @@ class _HomeState extends State<Home> {
                 Row(
                   children: [
                     Text(
-                      "option",
+                      "option4",
                       style: TextStyle(fontSize: 22),
                     ),
                     Image(
