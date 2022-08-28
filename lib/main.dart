@@ -140,12 +140,12 @@ class _HomeState extends State<Home> {
                   ],
                 ),
                 SizedBox(
-                  height: 20,
+                  height: 33,
                 ),
                 Row(
                   children: [
                     Text(
-                      "option4",
+                      "option",
                       style: TextStyle(fontSize: 22),
                     ),
                     Image(
